@@ -4,7 +4,7 @@
 **Course:** CIS468
 
 ## 📌 Project Overview
-Academic success is traditionally measured using past performance, which frequently masks the underlying environmental and behavioral drivers that influence a student's trajectory. The primary objective of this project is to evaluate the independent predictive power of non-academic variables—specifically financial resources, study habits, and parental involvement—on a secondary student's final grade percentage. 
+Academic success is traditionally measured using past performance, which frequently masks the underlying environmental and behavioral drivers that influence a student's trajectory. The primary objective of this project is to evaluate the independent predictive power of non-academic variables, specifically financial resources, study habits, and parental involvement, on a secondary student's final grade percentage. 
 
 By excluding previous academic history, this regression analysis tests whether machine learning models can reliably forecast academic outcomes based strictly on a student's socioeconomic and behavioral background.
 
